@@ -1,5 +1,5 @@
 # Pitch Tracker
-Realtime Pitch Tracking for the Improvisor project
+Realtime Pitch Tracking for the Impro-Visor project
 
 _Written in SuperCollider_
 
