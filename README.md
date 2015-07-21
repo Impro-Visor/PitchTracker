@@ -1,9 +1,11 @@
-# Siah-Kondak-Supercollider
-Realtime I/O for the Improvisor project
+# Pitch Tracker
+Realtime Pitch Tracking for the Improvisor project
+
+_Written in SuperCollider_
 
 Tartini and other Dependencies found [here](https://github.com/supercollider/sc3-plugins)
 
-## Goals:
+## Areas of Improvement:
 
 - Build settings gui with correct file i/o for saving settings
 
